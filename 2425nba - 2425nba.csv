@@ -1,4 +1,4 @@
-Rk,Player,Age,Team,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,FPTS,TS%,Awards,Player-additional
+Rk,Player,Age,Team,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,FPTS,TS,Awards,Player-additional
 1,Shai Gilgeous-Alexander,26,OKC,PG,76,76,34.2,11.3,21.8,0.519,2.1,5.7,0.375,9.2,16.1,0.571,0.569,7.9,8.8,0.898,0.9,4.1,5,6.4,1.7,1,2.4,2.2,32.7,58.5,68.88%,MVP-1DPOY-10CPOY-8ASNBA1,gilgesh01
 2,Giannis Antetokounmpo,30,MIL,PF,67,67,34.2,11.8,19.7,0.601,0.2,0.9,0.222,11.6,18.7,0.62,0.607,6.5,10.6,0.617,2.2,9.7,11.9,6.5,0.9,1.2,3.1,2.3,30.4,57.5,68.99%,MVP-3DPOY-8ASNBA1,antetgi01
 3,Nikola Jokić,29,DEN,C,70,70,36.7,11.2,19.5,0.576,2,4.7,0.417,9.3,14.8,0.627,0.627,5.2,6.4,0.8,2.9,9.9,12.7,10.2,1.8,0.6,3.3,2.3,29.6,69.4,70.79%,MVP-2CPOY-2ASNBA1,jokicni01
@@ -733,4 +733,5 @@ Rk,Player,Age,Team,Pos,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,
 566,Jahlil Okafor,29,IND,C,1,0,3,0,0,,0,0,,0,0,,,0,0,,0,1,1,1,0,0,0,0,0,3,0.00%,,okafoja01
 567,Zyon Pullin,23,MEM,SG,3,0,1,0,0.3,0,0,0,,0,0.3,0,0,0,0,,0,0,0,0,0,0,0,0,0,-0.3,0.00%,,pullizy01
 568,Isaiah Stevens,24,MIA,PG,3,0,2,0,0.7,0,0,0.3,0,0,0.3,0,0,0,0,,0,0.7,0.7,0,0.3,0,0,0,0,1.2,0.00%,,steveis01
+
 569,Terry Taylor,25,SAC,PF,3,0,2,0,0.3,0,0,0,,0,0.3,0,0,0,0,,0.3,0,0.3,0.7,0,0,0,0,0,1.4,0.00%,,taylote01
